@@ -16,3 +16,8 @@ fake-eggs/
 parts/
 dist/
 var/
+dist
+searchindex.js
+search.html
+pylint.log
+pyflakes.log
