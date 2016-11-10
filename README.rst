@@ -15,6 +15,8 @@ eea.app.visualization. See eea.daviz package for more details.
 Installation
 ============
 
+ATTENTION, IT IS NOT WORKING YET, THE INSTRUCTIONS ABOVE ARE JUST A PLACEHOLDER BY NOW.
+
 zc.buildout
 -----------
 If you are using `zc.buildout`_ and the `plone.recipe.zope2instance`_
