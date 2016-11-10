@@ -13,7 +13,7 @@ setup(name=NAME,
       description=(
           "Daviz Vaporize provides a Word Cloud plugin for EEA APP Vizualization."),
       long_description=open("README.rst").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+                       open(os.path.join("docs", "CHANGELOG.txt")).read(),
       classifiers=[
           "Framework :: Zope2",
           "Framework :: Zope3",
