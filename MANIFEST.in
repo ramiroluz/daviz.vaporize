@@ -1,4 +1,7 @@
-global-exclude *pyc
+graft src/daviz
+graft docs
+include *.rst
+global-exclude *.pyc
 global-exclude *~
 global-exclude *.un~
 global-include *mo
